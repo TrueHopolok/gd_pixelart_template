@@ -18,6 +18,10 @@ config/icon="uid://cu3wdat0ouma0"
 
 buses/default_bus_layout="uid://dlptv1a5o3dwc"
 
+[autoload]
+
+Transition="*res://ui/transition/transition.tscn"
+
 [display]
 
 window/size/viewport_width=640
