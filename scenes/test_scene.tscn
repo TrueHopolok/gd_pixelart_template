@@ -1,6 +1,6 @@
 [gd_scene load_steps=3 format=3 uid="uid://mlfopegdrvw6"]
 
-[ext_resource type="PackedScene" uid="uid://i0n7cjiw24yl" path="res://ui/audio_settings/audio_settings.tscn" id="1_g7g4h"]
+[ext_resource type="PackedScene" uid="uid://i0n7cjiw24yl" path="res://ui/settings/audio_settings/audio_settings.tscn" id="1_g7g4h"]
 [ext_resource type="PackedScene" uid="uid://c4cbgi0tgwths" path="res://ui/premade_button/premade_button.tscn" id="2_j8ivh"]
 
 [node name="TestScene" type="Control"]

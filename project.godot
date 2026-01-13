@@ -21,6 +21,7 @@ buses/default_bus_layout="uid://dlptv1a5o3dwc"
 [autoload]
 
 Transition="*res://ui/transition/transition.tscn"
+SettingsCfg="*res://ui/settings/settings_cfg.gd"
 
 [display]
 
