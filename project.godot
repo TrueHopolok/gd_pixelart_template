@@ -8,10 +8,14 @@
 
 config_version=5
 
+[animation]
+
+compatibility/default_parent_skeleton_in_mesh_instance_3d=true
+
 [application]
 
 config/name="pixelart_template"
-config/features=PackedStringArray("4.5", "Forward Plus")
+config/features=PackedStringArray("4.6", "Forward Plus")
 config/icon="uid://cu3wdat0ouma0"
 
 [audio]
@@ -40,6 +44,7 @@ project/assembly_name="gamejam_bread_21"
 folder_colors={
 "res://assets/": "red",
 "res://audio/": "yellow",
+"res://build/": "gray",
 "res://objects/": "green",
 "res://scenes/": "green",
 "res://scripts/": "blue",
